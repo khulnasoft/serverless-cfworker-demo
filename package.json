@@ -1,0 +1,14 @@
+{
+  "name": "khulnasoft-cf-pg-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "KhulnaSoft Ltd",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20221111.1"
+  },
+  "dependencies": {
+    "@khulnasoft/serverless": "^0.4.9"
+  }
+}
